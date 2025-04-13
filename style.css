@@ -46,7 +46,7 @@ footer {
 }
 /* Home Page Background */
 .home-page {
-    background-image: url('images/background5.jpg'); /* Add your image path here */
+    background-image: url('background5.jpg'); /* Add your image path here */
     background-size: cover; /* Image will cover the entire page */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent image repetition */
