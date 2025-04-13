@@ -79,7 +79,7 @@ footer {
 }
 /* About Page */
 .about-page {
-    background-image: url('images/background1.jpg');
+    background-image: url('background1.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -144,7 +144,7 @@ footer {
 
 /* Menu Page */
 .menu-page {
-    background-image: url('images/background2.jpg');
+    background-image: url('background2.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -197,7 +197,7 @@ footer {
 }
 /* Contact Page */
 .contact-page {
-    background-image: url('images/background3.jpg');
+    background-image: url('background3.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
@@ -273,7 +273,7 @@ footer {
 
 /* User Reviews Page */
 .reviews-page {
-    background-image: url('images/background4.jpg');
+    background-image: url('background4.jpg');
     background-size: cover;
     background-position: center;
     color: #fff;
